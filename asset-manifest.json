@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.10e5ee93.css",
+    "main.js": "/E-commerce/static/js/main.5e0d2036.js",
+    "static/media/freestocks-_3Q3tsJ01nc-unsplash.jpg": "/E-commerce/static/media/freestocks-_3Q3tsJ01nc-unsplash.03957cc2ca744d7890f1.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/istockphoto-1827291486-2048x2048.jpg": "/E-commerce/static/media/istockphoto-1827291486-2048x2048.e1173e25a327be6bd73a.jpg",
+    "static/media/pngtree-business-concept-of-online-shopping-e-commerce-png-image_5345089.jpg": "/E-commerce/static/media/pngtree-business-concept-of-online-shopping-e-commerce-png-image_5345089.b6e94dbd2c72dfcc2e82.jpg",
+    "static/media/fontawesome-webfont.eot": "/E-commerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/E-commerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/istockphoto-1428709516-612x612.jpg": "/E-commerce/static/media/istockphoto-1428709516-612x612.f98cf65a683de6eb4430.jpg",
+    "static/media/Top-10-Best-Selling-Clothing-Brands-In-The-World-sajt.jpg": "/E-commerce/static/media/Top-10-Best-Selling-Clothing-Brands-In-The-World-sajt.76b059264341d924c4cf.jpg",
+    "index.html": "/E-commerce/index.html",
+    "main.10e5ee93.css.map": "/E-commerce/static/css/main.10e5ee93.css.map",
+    "main.5e0d2036.js.map": "/E-commerce/static/js/main.5e0d2036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e5ee93.css",
+    "static/js/main.5e0d2036.js"
+  ]
+}

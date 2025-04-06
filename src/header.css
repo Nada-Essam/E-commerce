@@ -1,0 +1,33 @@
+
+.App-header {
+   
+    position: relative;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  
+  .App-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('./images/istockphoto-1827291486-2048x2048.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;  
+    z-index: -1;
+  } 
+  footer a:hover {
+    color: #17a2b8 !important;
+    text-decoration: underline;
+    transition: 0.3s;
+  }
+   

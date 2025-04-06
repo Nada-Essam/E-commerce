@@ -11,7 +11,7 @@ import store from './slices/store.js';
 import { DarkModeProvider } from './context/DarkModeContext.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- <BrowserRouter>
+ <BrowserRouter basename="/E-commerce">
  
   <Provider store={store}>
     <DarkModeProvider>

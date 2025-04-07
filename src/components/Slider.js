@@ -15,7 +15,7 @@ export default function Slider() {
             <img
               src={img1}
               className="d-block w-100"
-              style={{ height: "100vh", objectFit: "cover" }}
+              style={{ height: "100vh"}}
               alt="..."
             />
           </div>
@@ -23,7 +23,7 @@ export default function Slider() {
             <img
               src={img2}
               className="d-block w-100"
-              style={{ height: "100vh", objectFit: "cover" }}
+              style={{ height: "100vh"}}
               alt="..."
             />
           </div>
@@ -31,7 +31,7 @@ export default function Slider() {
             <img
               src={img3}
               className="d-block w-100"
-              style={{ height: "100vh", objectFit: "cover" }}
+              style={{ height: "100vh"}}
               alt="..."
             />
           </div>
